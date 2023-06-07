@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3amplify0607",
+  "policyUUID": "2c6e9f0b",
+  "bucketName": "amplifyreactgraphql082f26d8672340a380cb12485a3b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
